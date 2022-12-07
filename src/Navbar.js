@@ -5,9 +5,9 @@ export const Navbar = () => {
 
   return (
     
-    <nav className="navbar navbar-expand-lg bg-page">
+    <nav className="navbar navbar-expand-lg bg-page"> 
         <div className="container-fluid">
-          <Link className="navbar-brand neon"  to ="/inicio">RESTAURANTES</Link>
+          <Link className="navbar-brand neon"  to ="/inicio">RESTAURANTES</Link>  <div class='iconouniversidad'></div>
 
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
@@ -29,3 +29,4 @@ export const Navbar = () => {
       </nav>
   )
 }
+

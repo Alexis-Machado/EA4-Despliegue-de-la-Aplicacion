@@ -1,25 +1,5 @@
-.index {
-    background-image: url('../src/IMG/Restaurant.png');
-    background-repeat: no-repeat;
-    position: fixed;
-    min-width: 100%;
-    min-height: 100%;
-    background-size: cover;     
-    background-position: center;
-}
-
 .container-fluid2 {
     background-image: url(../src/IMG/fondo-AZUL.jpg);
-    background-repeat: no-repeat;
-    position: fixed;
-    min-width: 100%;
-    min-height: 100%;
-    background-size: cover;     
-    background-position: center;
-}
-
-.container  {
-    background-image: url(../src/IMG/Buscar_Restaurante.jpg);
     background-repeat: no-repeat;
     position: fixed;
     min-width: 100%;
@@ -32,8 +12,8 @@
     background-image: url(../src/IMG/iud.png);
     background-repeat: no-repeat;
     position: fixed;
-    min-width: 25%;
-    min-height: 25%;
+    min-width: 20%;
+    min-height: 20%;     
 }
 
 .neon {
